@@ -13,7 +13,7 @@ Steps to setup and run the code:
 + Create virtual environment by - `python3 -m venv venv`
 + Activate the venv by - `source venv/bin/activate` (for Linux)
 + Install the dependencies - `pip install -r requirements.txt`
-+ Run train.py - `python3 train.py`
++ Run train.py - `python train.py`
 
 
 [@hasanify](https://github.com/hasanify/)
