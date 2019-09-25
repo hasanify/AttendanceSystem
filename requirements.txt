@@ -1,0 +1,6 @@
+dlib
+face_recognition
+numpy
+pandas
+opencv-python
+pillow
